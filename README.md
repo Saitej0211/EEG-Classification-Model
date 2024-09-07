@@ -5,15 +5,6 @@
 
 This project aims to develop a classification model for Electroencephalogram (EEG) data to diagnose epilepsy. The focus is on creating a patient-specific detector for identifying the onset of seizures using machine learning techniques. The datasets used include the CHB-MIT EEG Database and the Bonn EEG Dataset.
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Strategy](#strategy)
-3. [Analysis](#analysis)
-4. [Results](#results)
-5. [Conclusion](#conclusion)
-6. [Limitation](#limitation)
-7. [Future Work](#future-work)
-
 ## Introduction
 
 Epilepsy is a neurological disorder characterized by recurrent seizures. This project develops a model to classify EEG data to detect seizures early. The EEG recordings from the CHB-MIT and Bonn EEG datasets are used for training and evaluation. The goal is to improve the accuracy and timeliness of seizure detection to enhance patient care.
